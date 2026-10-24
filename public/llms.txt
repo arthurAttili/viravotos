@@ -1,0 +1,9 @@
+# Vira Votos
+
+> Ferramenta independente de apoio a Lula (13) no 2º turno da eleição presidencial de 25/10/2026. O usuário responde 10 perguntas sobre uma pessoa conhecida e recebe um roteiro de conversa: como abrir, o que perguntar, propostas dos dois candidatos com fonte, respostas para objeções, o que evitar e um plano de voto.
+
+- Responsável: Arthur Attili, eleitor, sem ligação com partido ou campanha.
+- Fontes: planos de governo registrados no TSE (Lula e Flávio Bolsonaro), IBGE, leis publicadas e imprensa com data.
+- Técnicas: deep canvassing (Broockman e Kalla 2016, Kalla e Broockman 2020), enquadramento moral (Feinberg e Willer 2015, 2019), plano de voto (Nickerson e Rogers 2010), inoculação (Roozenbeek e colegas 2022).
+- Privacidade: tudo roda no navegador. Sem cadastro, cookie ou analytics.
+- No dia da eleição o roteiro fica fechado, por causa da proibição de propaganda no dia (Lei 9.504/1997, art. 39, §5º).
