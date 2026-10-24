@@ -289,7 +289,7 @@
       mobilizar: [Nc + ' já está do lado do Lula. O risco é ficar em casa no domingo. O objetivo é sair da conversa com hora, lugar e documento combinados.', 'Quem já concorda não precisa de argumento. Precisa de plano e de companhia.'],
       ir: ['Convencer ' + N + ' a ir votar e a dar uma chance ao 13.', 'Quem pensa em anular ou faltar costuma estar cansado de política, não convencido do outro lado. Ouça o cansaço antes de falar de candidato.'],
       persuadir: ['Ajudar ' + N + ' a decidir entre os dois com base no que pesa na vida dela.', 'Quem está em dúvida é quem mais muda numa conversa. Vale o seu esforço.'],
-      duvida: ['Deixar uma dúvida honesta. Quem pende para o Flávio raramente muda numa conversa só. Se ' + N + ' sair pensando em um ponto, a conversa valeu.', 'Uma segunda conversa amanhã, com calma, rende mais que uma discussão longa hoje.'],
+      duvida: ['Deixar uma dúvida honesta. Quem pende para o Flávio raramente muda numa conversa só. Se ' + N + ' sair pensando em um ponto, a conversa valeu.', 'Duas conversas curtas hoje, uma agora e outra à noite, rendem mais que uma discussão longa.'],
       ouvir: ['Ouvir e manter a relação. Com quem está fechado com o Flávio, a chance de virar o voto até domingo é baixa.', 'Pesquisa com dezenas de experimentos mostra que, em eleição geral, contato quase não muda voto já decidido. Se o seu tempo é curto, use-o com alguém em dúvida ou que pode faltar.']
     };
     out.objetivo = obj[g][0];
